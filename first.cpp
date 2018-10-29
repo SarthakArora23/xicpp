@@ -1,3 +1,7 @@
+// Program to demonstate c++ output methods
+// made by 		: rakesh
+// compiled on	: 22/04/2018
+
 #include<iostream>
 using namespace std;
 
